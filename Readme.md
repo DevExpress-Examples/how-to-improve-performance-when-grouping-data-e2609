@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/ImprovingDataGroupingPerformance/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/ImprovingDataGroupingPerformance/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/ImprovingDataGroupingPerformance/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ImprovingDataGroupingPerformance/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to Improve Performance when Grouping Data
 
 
